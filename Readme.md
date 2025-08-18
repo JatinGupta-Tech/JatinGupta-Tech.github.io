@@ -1,11 +1,11 @@
 # Personal Portfolio 🔥
-> https://rajaprerak.github.io/
+> https://JatinGupta-Tech.github.io/
 
 :star: Star me on GitHub — it helps!
 
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/rajaprerak/rajaprerak.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://rajaprerak.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/rajaprerak/)
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/JatinGupta-Tech/JatinGupta-Tech.github.io/commits/master)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://JatinGupta-Tech.github.io//)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/jatingupt/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Website Preview
@@ -16,13 +16,10 @@
 #### About Page
 <img src="website_images/AboutPage.png" width="900">
 
+#### Skills Page
+<img src="website_images/SkillPage.png" width="900">
 
-#### Projects Page
-<img src="website_images/ProjectPage.png" width="900">
-  
-
-
-:star: Star me on GitHub — it helps!
+Star me on GitHub — it helps!
 
 ## Features 📋
 ⚡️ Fully Responsive\
@@ -33,7 +30,6 @@
 ## Installation & Deployment 📦
 - Clone the repository and modify the content of <b>index.html</b> 
 - Add or remove images from `assets/img/` directory as per your requirement.
-- Update the info of `projects` folder according to your need
 - Use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to create your own website.
 - To deploy your website, first you need to create github repository with name `<your-github-username>.github.io` and push the generated code to the `master` branch.
 
@@ -43,7 +39,6 @@
 ✔️ Education\
 ✔️ Online Certification\
 ✔️ Experience\
-✔️ Projects \
 ✔️ Skills \
 ✔️ Resume\
 ✔️ Contact Info
